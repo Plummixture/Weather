@@ -1,1 +1,0 @@
-print("Thar Sis supremacy")
